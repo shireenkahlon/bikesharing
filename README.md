@@ -24,7 +24,7 @@ The “August Peak Hours” chart below portrays the highest rental hours within
 
 The charts below shows us the top locations where bikes are rented and returned. The maps show how the starting and ending locations are in close proximity to each other. This data is critical in viewing who the bike-share renters may be and where the most profitable stations could be placed in Des Moines. The first step would be to look at which areas are in high-tourist areas versus areas which tend to be a local area. 
 ![top starting locations](https://github.com/shireenkahlon/bikesharing/blob/main/Screenshots/Top_Starting_Locations_Worksheet.png)
-![top ending locations](https://github.com/shireenkahlon/bikesharing/blob/main/Screenshots/Top_Ending_Locations_Worksheet.png)
+![top ending locations](https://github.com/shireenkahlon/bikesharing/blob/main/Screenshots/Top_Ending_Locations.png)
 
 The following chart tells us the average trip duration for people grouped by birth year, or in other words, age. This chart describes how, with the exclusion of a few anomalies, people born in a later year (specifically 1995 onwards), tend to have longer bike rides. This data could be useful in looking at station placement near universities and colleges. 
 ![average trip duration](https://github.com/shireenkahlon/bikesharing/blob/main/Screenshots/Average_Trip_Duration_Worksheet.png)
