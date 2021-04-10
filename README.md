@@ -39,5 +39,5 @@ Another piece of data to look at along with the Citi Bike data is the starting a
         The data we have available to us can help in numerous ways. However, in order to provide the most accurate and informative data to the investor, further charts would need to be created. 
         
  The Tableau Story is shown below:
- ![Tableau_Story](https://public.tableau.com/profile/shireen.kahlon#!/vizhome/bikesharing_challenge_16178321768970/NYCCitiBike)
+ [Tableau_Story](https://public.tableau.com/profile/shireen.kahlon#!/vizhome/bikesharing_challenge_16178321768970/NYCCitiBike)
 
